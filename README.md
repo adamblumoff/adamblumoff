@@ -4,7 +4,7 @@ I’m Adam Blumoff, a recent Amherst College Computer Science graduate building 
 
 ---
 
-## Current Project: CareBase
+## Current Project: [CareBase](https://www.github.com/adamblumof/carebase)
 
 CareBase helps caregivers manage everything in one place: appointments, bills, and notes, so they can focus on patients instead of logistics. Caregiving often involves information overload from emails, texts, portals, and calls. CareBase aims to cut through that noise and reduce [caregiver burnout](https://my.clevelandclinic.org/health/diseases/9225-caregiver-burnout) by centralizing key information.
 
