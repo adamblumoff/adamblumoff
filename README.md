@@ -34,7 +34,7 @@ Contact
 Location: St. Louis, Missouri
 LinkedIn: linkedin.com/in/adam-blumoff
 GitHub: github.com/adamblumoff
-Resume: 
+[Resume]([url](https://github.com/adamblumoff/adamblumoff/blob/main/Blumoff_Adam_Resume%20(4).pdf))
 
 
 
