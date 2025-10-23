@@ -1,4 +1,4 @@
-##About Me
+#About Me
 
 I’m Adam Blumoff, a recent Amherst College Computer Science graduate building products that create meaningful value for users and for myself. My focus is on reducing friction through software that helps people spend less time on repetitive tasks and more time on what matters.
 
