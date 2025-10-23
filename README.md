@@ -18,7 +18,7 @@ Developed competitive Othello AI engines using search algorithms like Principled
 Designed a PostgreSQL schema and ETL pipeline in Python to process over 10,000 bird observation records for ecological research. The system calculated dominance scores and analyzed hierarchical patterns across populations, enabling data-driven insights into social structure. My emphasis was placed on clean data modeling, statistical analysis, and research usability. This project was eventually developed into a full-stack application with a frontend and a leaderboard; however, I did not contribute significantly to this specific development. I focused on the ETL pipeline. 
 
 [Unity Game Development](https://github.com/adamblumoff/ZombieShooter) (Final 2D game, Undead Mayhem)
-Developed multiple 2D game projects in Unity, focused on player movement, enemy mechanics, and animation systems using C#. Conducted usability testing with peers and refined gameplay based on feedback, increasing user playtime by 50%. Drew on research from Danish and Swedish indie studios to inform design decisions and create immersive player experiences. Also developed an arcade-style first-person basketball game with custom animations and models using Blender. I am working on a VR game right now, but that is on the back burner as I have been developing more traditional apps as of late. 
+Developed multiple 2D game projects in Unity, focused on player movement, enemy mechanics, and animation systems using C#. Conducted usability testing with peers and refined gameplay based on feedback, increasing user playtime by 50%. Drew on research from Danish and Swedish indie studios to inform design decisions and create immersive player experiences. Also developed an arcade-style first-person basketball game with custom animations and models using Blender. I am currently working on a VR game, but it is on the back burner as I have been developing more traditional apps lately. 
 
 Technologies and Tools
 
@@ -28,13 +28,13 @@ I enjoy designing clean API architectures, improving full-stack performance, and
 
 What’s Next
 
-I’m looking for software engineering roles where I can help build fast, reliable, and intelligent products. I’m especially interested in small, product-driven teams that move quickly and care deeply about engineering quality.
+I’m looking for software engineering roles where I can help build fast, reliable, and intelligent products. I’m particularly interested in small, product-driven teams that move quickly and take deep care in engineering quality.
 Contact
 
 Location: St. Louis, Missouri
 LinkedIn: linkedin.com/in/adam-blumoff
 GitHub: github.com/adamblumoff
-[Resume]([url](https://github.com/adamblumoff/adamblumoff/blob/main/Blumoff_Adam_Resume%20(4).pdf))
+[Resume](./Blumoff_Adam_Resume%20(4).pdf)
 
 
 
