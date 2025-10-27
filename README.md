@@ -15,7 +15,7 @@ CareBase helps caregivers manage everything in one place: appointments, bills, a
 ### [Student Success Prediction]([https://github.com/adamblumoff/student-success-prediction)]
 Built a machine learning platform that predicts at-risk K–12 students before they fall behind, improving early intervention and academic outcomes. The system utilizes an explainable neural network model that achieved an AUC of 81.5% on the validation data. It integrates real-time dashboards and intervention tracking across platforms such as Canvas, PowerSchool, and Google Classroom, enabling teachers to identify struggling students and take prompt action. Developed with Python, FastAPI, and PostgreSQL, with over 125 automated tests ensuring reliability and performance.
 
-### [Othello Game Engine](https://github.com/OthelloEngine)
+### [Othello Game Engine](https://github.com/adamblumoff/OthelloEngine)
 Developed competitive Othello AI engines using search algorithms like Principled Variable Search and Q-learning. The alpha-beta engine achieved a 90% win rate against a fixed opponent after over 1,000 simulated games. This project focused on comparing a state-of-the-art game-playing algorithm to reinforcement learning techniques, and concluding which is better for Othello. I also co-authored the paper, which is in the repo.  
 
 ### [Social Dominance Hierarchy Database](https://github.com/adamblumoff/cosc-257_bird_dbms)
