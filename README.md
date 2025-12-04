@@ -12,7 +12,7 @@ CareBase helps caregivers manage everything in one place: appointments, bills, a
 
 ## Other Projects
 
-### [Student Success Prediction]([https://github.com/adamblumoff/student-success-prediction})
+### [Student Success Prediction](https://github.com/adamblumoff/student-success-prediction)
 Built a machine learning platform that predicts at-risk K–12 students before they fall behind, improving early intervention and academic outcomes. The system utilizes an explainable neural network model that achieved an AUC of 81.5% on the validation data. It integrates real-time dashboards and intervention tracking across platforms such as Canvas, PowerSchool, and Google Classroom, enabling teachers to identify struggling students and take prompt action. Developed with Python, FastAPI, and PostgreSQL, with over 125 automated tests ensuring reliability and performance.
 
 ### [Othello Game Engine](https://github.com/adamblumoff/OthelloEngine)
