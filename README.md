@@ -24,7 +24,6 @@ Developed competitive Othello AI engines using search algorithms like Principled
 
 Python, TypeScript, t3 stack (not exactly, but close), React Native, PostgreSQL, S3 (buckets in general), Codex
 
-
 ---
 
 ## Contact
@@ -33,11 +32,9 @@ Location: St. Louis, Missouri
 
 Website: www.blumey.dev
 
-LinkedIn: linkedin.com/in/adam-blumoff
+LinkedIn: www.linkedin.com/in/adam-blumoff
 
-GitHub: github.com/adamblumoff
-
-[Resume](./Adam_Blumoff_SWE.pdf) (As of 10/22/2025)
+[Resume](./Adam_Blumoff_SWE.pdf) (As of 12/30/2025)
 
 
 
