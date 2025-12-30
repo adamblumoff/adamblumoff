@@ -22,7 +22,7 @@ Developed competitive Othello AI engines using search algorithms like Principled
 
 ## Recent Technologies and Tools
 
-Python, TypeScript, t3 stack (not exactly, but close), React Native, PostgreSQL, S3 (buckets in general), Codex
+Python, TypeScript, T3 stack (kinda, but you get the point), React Native, Expo, PostgreSQL, S3 (buckets in general), Railway, Codex
 
 ---
 
