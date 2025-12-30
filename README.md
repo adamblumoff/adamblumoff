@@ -1,7 +1,7 @@
 
 ## Current Project: 
 
-###[CareBase](https://github.com/adamblumoff/carebase)
+### [CareBase](https://github.com/adamblumoff/carebase)
 CareBase helps caregivers manage everything in one place: appointments, bills, and notes, so they can focus on patients instead of logistics. Caregiving often involves information overload from emails, texts, portals, and calls. CareBase aims to cut through that noise and reduce [caregiver burnout](https://my.clevelandclinic.org/health/diseases/9225-caregiver-burnout) by centralizing key information.
 
 ---
