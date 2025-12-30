@@ -1,8 +1,3 @@
-# About Me
-
-I’m Adam Blumoff, a recent Amherst College Computer Science graduate building products that create meaningful value for users and for myself. My focus is on reducing friction through software that helps people spend less time on repetitive tasks and more time on what matters.
-
----
 
 ## Current Project (currently rewriting with a cleaner stack): [CareBase](https://github.com/adamblumoff/carebase)
 
@@ -32,15 +27,11 @@ Python, TypeScript, t3 stack (not exactly, but close), React Native, PostgreSQL,
 
 ---
 
-## What’s Next
-
-I’m seeking software engineering roles where I can contribute to building fast, reliable, and intelligent products that will have a genuine, positive impact on the world. I’m particularly interested in small, product-driven teams that move quickly and take deep care in design and engineering quality.
-
----
-
 ## Contact
 
 Location: St. Louis, Missouri
+
+Website: www.blumey.dev
 
 LinkedIn: linkedin.com/in/adam-blumoff
 
