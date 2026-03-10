@@ -1,25 +1,16 @@
+## Current Project
 
-## Current Project: 
-
-### [CareBase](https://github.com/adamblumoff/carebase)
-CareBase helps caregivers manage everything in one place: appointments, bills, and notes, so they can focus on patients instead of logistics. Caregiving often involves information overload from emails, texts, portals, and calls. CareBase aims to cut through that noise and reduce [caregiver burnout](https://my.clevelandclinic.org/health/diseases/9225-caregiver-burnout) by centralizing key information.
-
----
+  - CareBase (https://github.com/adamblumoff/carebase): A caregiver coordination app that centralizes appointments, bills, and notes to reduce information overload
+    and caregiver burnout.
 
 ## Other Recent Projects
 
-### [DebateBench](https://github.com/adamblumoff/debate-bench)
-Built a Python CLI system for large-scale LLM debate runs with reproducible configurations, structured JSONL/CSV artifacts, and automated scoring and summarization. Designed and implemented a read-only analytics dashboard that ingests artifacts from private object storage, computes metrics server-side,
-and renders interactive performance and cost views. Hardened the system with production-grade reliability features, including usage and cost accounting, retry logic, and immutable run snapshots to support consistent high-volume batch execution.
-
-### [Student Success Prediction](https://github.com/adamblumoff/student-success-prediction)
-Built a machine learning platform that predicts at-risk K–12 students before they fall behind, improving early intervention and academic outcomes. The system utilizes an explainable neural network model that achieved an AUC of 81.5% on the validation data. It integrates real-time dashboards and intervention tracking across platforms such as Canvas, PowerSchool, and Google Classroom, enabling teachers to identify struggling students and take prompt action. Developed with Python, FastAPI, and PostgreSQL, with over 125 automated tests ensuring reliability and performance.
-
-### [Othello Game Engine](https://github.com/adamblumoff/OthelloEngine)
-Developed competitive Othello AI engines using search algorithms like Principled Variable Search and Q-learning. The alpha-beta engine achieved a 90% win rate against a fixed opponent after over 1,000 simulated games. This project focused on comparing a state-of-the-art game-playing algorithm to reinforcement learning techniques, and concluding which is better for Othello. I also co-authored the paper, which is in the repo.  
-
-
----
+  - DebateBench (https://github.com/adamblumoff/debate-bench): A Python-based LLM debate platform with reproducible runs, structured artifacts, automated scoring,
+    and a server-rendered analytics dashboard for performance and cost analysis.
+  - Student Success Prediction (https://github.com/adamblumoff/student-success-prediction): A machine learning platform that identifies at-risk K-12 students early
+    using an explainable neural network and integrated intervention dashboards.
+  - Othello Game Engine (https://github.com/adamblumoff/OthelloEngine): A competitive Othello AI project comparing alpha-beta search and Q-learning, including a c
+    o-authored paper on the results.
 
 ## Recent Technologies and Tools
 
