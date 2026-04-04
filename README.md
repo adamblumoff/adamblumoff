@@ -1,6 +1,7 @@
 ## What I'm working on right now
-  - [Cod-Predictor](https://github.com/adamblumoff/cod-predictor): Attempting to map positions of players in Call of Duty competitive maps using fine-tuned computer vision models, this is way harder than I thought it was going to be. [Activision](https://github.com/Activision), please create an API for this.
-  - [Gym-Motion](https://github.com/adamblumoff/gym-motion): A proof of concept for monitoring activity across gym machines through a simple local gateway, bluetooth connected nodes, and centralized dashboard, designed to make equipment analytics more affordable and practical for gym operators
+  - [Promptreel](https://github.com/adamblumoff/promptreel): Visualization of a repo's history through prompt events, kind of like GitHub, but the main primitive is a prompt, not a commit. Working on cloud and local versions right now. 
+  - [Gym-Motion](https://github.com/adamblumoff/gym-motion): A proof of concept for monitoring activity across gym machines through a simple local gateway, Bluetooth-connected nodes, and a centralized dashboard, designed to make equipment analytics more affordable and practical for gym operators. POC is there, working on the final form factor and getting the hardware MVP started. 
+
 
 ## Other Recent Projects
   - [CareBase](https://github.com/adamblumoff/carebase): A caregiver coordination app that centralizes appointments, bills, and notes to reduce information overload
@@ -14,9 +15,8 @@
 
 ## Recent Technologies and Tools
 
-Python, TypeScript, T3 stack (not exactly, but you get the point), React Native, Expo, PostgreSQL, S3, Railway, Codex
+TypeScript, T3 stack (not exactly, but you get the point), Python, React Native, Expo, PostgreSQL, S3, Railway, Codex
 
----
 
 ## Contact
 
