@@ -1,4 +1,4 @@
-### Latest Project: [scope](https://github.com/adamblumoff/scope-vcs)
+latest project: [Scope](https://github.com/adamblumoff/scope-vcs)
 
 
 
